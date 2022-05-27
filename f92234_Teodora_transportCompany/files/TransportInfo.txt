@@ -1,0 +1,3 @@
+Transport{startPoint='Sofia', destination='Burgas', dateDepart='25/06/21', dateArrival='26/06/21', driver=Driver{name='Stoyan', salary=300.0, qualification=INFLAMMABLE}}
+Transport{startPoint='Obelya', destination='Mladost', dateDepart='30/06/21', dateArrival='30/06/21', driver=Driver{name='John', salary=200.0, qualification=MORETHAN12PERSON}}
+Transport{startPoint='Pernik', destination='Vladaya', dateDepart='04/07/21', dateArrival='04/07/21', driver=Driver{name='Rick', salary=50.0, qualification=SPECIALLOAD}}
