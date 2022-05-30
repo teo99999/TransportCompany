@@ -3,7 +3,7 @@ Transport Company
 
 University Java project implemented using :
 
-Classes/n
+<li>Classes</li>
 Enums
 Functions
 Data structures like Maps, Sets, Lists, Array lists
